@@ -1,0 +1,323 @@
+@media screen and (max-width:1167px){
+    .hide-mobile{
+        display: none;
+    }
+    .hsb-header{
+        padding-left:15px;
+        padding-right:15px;
+    }
+    .mb-head-right{
+        width: 100% !important;
+        text-align: right;
+    }
+    .hsb-footer{
+        padding-left:15px;
+        padding-right:15px;
+    }
+    .list-foot li{
+        margin-left:0;
+        margin-right:0;
+    }
+    .out-cell a{
+        width: 124px;
+        height: 124px;
+        padding-top: 0;
+    }
+
+    .mob-titles{
+        display: block !important;
+    }
+    .hd-left,.hsb-reg{
+        display: none;
+    }
+    .slider-img{
+        height: 300px;
+    }
+    .mob_title{
+        font-size:30px;
+        font-family: RobotoSlabThin;
+        text-align: center;
+        color: #fff;
+        margin-bottom:0;
+        padding-top:42px;
+    }
+    .mb-txt{
+        font-family: RobotoRegular;
+        font-size:14px;
+        text-align: center;
+        color: #fff;
+        margin-top:8px;
+    }
+    .reg-mob{
+        height: 32px;
+        line-height: 32px;
+        width:260px;
+        background:linear-gradient(160deg, #0e9eb4 0%,  #1b75b9 100%);
+        background:-webkit-linear-gradient(160deg, #0e9eb4 0%,  #1b75b9 100%);
+        font-size: 14px;
+        font-family: RobotoBold;
+        border-radius: 4px;
+        position: relative;
+        top:240px;
+    }
+    .hsb-carousel .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
+        background: #fff !important;
+    }
+    .hsb-carousel .owl-dots .owl-dot span{
+        width:8px !important;
+        height: 8px !important;
+        border:1px solid #fff !important;
+        background: transparent !important;
+    }
+    .hsb-carousel .owl-nav.disabled+.owl-dots{
+        position: absolute;
+        width:100%;
+        top:180px;
+        text-align: center;
+    }
+    .shadow-cover{
+        background: transparent;
+    }
+    .head-content{
+        height: 82%;
+    }
+    .mob-titles{
+        position: absolute;
+        top:0;
+        width:100%;
+    }
+    .shadow-cover{
+        height:0;
+    }
+    .head-content{
+        padding-top:0;
+        padding-bottom:0;
+    }
+    .hsb-hm-item{
+        position: relative;
+    }
+}
+@media screen and (max-width:992px){
+    .mob_title{
+        padding-top:0;
+    }
+    .hsb-carousel .owl-nav.disabled+.owl-dots{
+        top:104px;
+    }
+    .reg-mob{
+        top:142px;
+    }
+    .portal-carousel .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
+        background: #444 !important;
+    }
+    .portal-carousel .owl-dots .owl-dot span{
+        width:8px !important;
+        height:8px !important;
+        border:1px solid  #444 !important;
+        background: transparent !important;
+    }
+    .modal-overlay{
+        background:#fff;
+    }
+    .outReg{
+        z-index:999999 !important;
+        border-radius: 0;
+        width:100%;
+        max-height: 100%;
+    }
+    .md-title{
+        font-size: 14px;
+        color:#444;
+        font-family: RobotoBold;
+        margin-left:10px;
+    }
+    .md-close{
+        color:#444;
+    }
+    .md-close i{
+        font-size:16px;
+        position: relative;
+        top:12px;
+        right:8px;
+    }
+    .outReg {
+        box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2) !important;
+    }
+    .md-link{
+        display: block;
+        border:1px solid rgba(204, 204, 204, 0.56);
+        border-radius: 20px;
+        text-align: center;
+        overflow: hidden;
+    }
+    .md-link:hover{
+        background: #f1f1f1;
+    }
+    .portal-cover{
+        margin-top:26px;
+    }
+    .out-reg{
+        display: none;
+    }
+    .portal-img{
+        width:130px;
+        height: 130px;
+    }
+    .portal-title{
+        font-size:20px;
+    }
+    .portal-date{
+        font-size:12px;
+    }
+    .portal-txt{
+        font-size:14px;
+    }
+    .why-carousel .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
+        background: #fff !important;
+    }
+    .why-carousel .owl-dots .owl-dot span{
+        width:8px !important;
+        height:8px !important;
+        border:1px solid  #fff !important;
+        background: transparent !important;
+    }
+    .portal-cover{
+        background: #fff;
+        padding-bottom:4px;
+        padding-top:8px;
+    }
+    .portal-item{
+        text-align: center;
+    }
+    .portal-img{
+        margin:auto;
+    }
+    .portal-carousel,.why-carousel{
+        min-height: 322px;
+    }
+    .portal-carousel .owl-nav .owl-next,.portal-carousel .owl-nav .owl-prev{
+        display: none !important;
+    }
+    .why-title{
+        margin-bottom:0;
+    }
+    .hsb-logo{
+        height: 16px;
+        top:10px;
+    }
+    .login-btn,.login-btn:focus,.login-btn:hover,.login-btn:active{
+        font-size: 12px;
+        height: 24px;
+        line-height: 24px;
+        top:-4px;
+    }
+    .hsb-header{
+        padding-left:10px;
+        padding-right:10px;
+    }
+    .hsb-header{
+        height: 36px;
+    }
+    .hsb-foot-icons{
+        display: none;
+    }
+    .ft-deep-lft{
+        text-align: center;
+        margin-bottom:48px;
+    }
+    .ft-hd,.ft-title,.ft-cell li span, .ft-link,.hsb-ft-lang .select2-container--default .select2-selection--single .select2-selection__rendered,.select2-results__option{
+        font-size:12px;
+    }
+    .ft-title{
+        margin-bottom:0;
+    }
+    .ft-cell,.hsb-social-list{
+        margin-top:0;
+    }
+    .list-foot li a img{
+        height: 27px;
+    }
+    .list-foot li:nth-child(2){
+        margin-right:6px;
+    }
+    .mbl-social-list li{
+        display: inline;
+        margin-right:10px;
+    }
+    .mbl-social-list li:first-child{
+        margin-left:-4px;
+    }
+    .mbl-social-list li a{
+        color:#999;
+    }
+    .mbl-social-list{
+        margin-top:4px;
+        min-height: 50px
+    }
+
+    .choose-category a,.choose-category a:hover.choose-category a:focus,.choose-category a:active{
+        width:260px;
+        background:linear-gradient(160deg, #0e9eb4 0%,  #1b75b9 100%);
+        background:-webkit-linear-gradient(160deg, #0e9eb4 0%,  #1b75b9 100%);
+        height: 32px;
+        line-height: 32px;
+        font-family: RobotoBold;
+        font-size: 14px;
+        text-align: left;
+        box-shadow: none;
+        border-radius: 4px;
+        margin-top:26px;
+    }
+    .choose-category i{
+        position: absolute;
+        margin-left:24px;
+    }
+    .mob-outs .cell-img img{
+        position: relative;
+        top:6px;
+    }
+    .loans {
+        padding-top: 8px;
+    }
+    .tickets{
+        padding-top:16px;
+    }
+    .slider-img{
+        height: 194px;
+    }
+
+}
+
+@media screen and (max-width:375px){
+    .hsb-ft-lang .select2{
+        max-width:42% !important;
+    }
+}
+@media screen and (max-width:600px){
+    .why-title{
+        padding-top:20px;
+    }
+    .why-cell{
+        margin-top:24px;
+        padding-left:40px !important;
+        padding-right:40px !important;
+    }
+    .why-name{
+        margin-top:-14px;
+        font-size:14px;
+    }
+    .why-txt{
+        font-size:12px;
+    }
+    .why-carousel .owl-nav.disabled+.owl-dots{
+        margin-top:16px !important;
+    }
+    .hsb-why-cells{
+        padding-bottom: 10px;
+    }
+}
+@media screen and (min-width:992px){
+    .portal-carousel .owl-dots{
+        display: none;
+    }
+}
